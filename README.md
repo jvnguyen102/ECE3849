@@ -5,3 +5,4 @@ Lab 1: Digital Oscilloscope
 Lab 2: Improved Oscilloscope  
 Lab 3: Real Time Operating System  
 Lab 4: Spectrum Analyzer and DMA  
+Lab 5: Advanced I/O  
